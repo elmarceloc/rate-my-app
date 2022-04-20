@@ -131,13 +131,13 @@
   <data name="FeedbackMessage1" xml:space="preserve">
     <value>Lamentamos que no quieras valorar {0}.
 
-Cuentanos tu experiencia o sugierenos como podemos hacerlo mejor.</value>
+Cuéntanos tu experiencia o sugierenos como podemos hacerlo mejor.</value>
   </data>
   <data name="FeedbackTitle" xml:space="preserve">
     <value>¿Podemos hacerlo mejor?</value>
   </data>
   <data name="FeedbackYes" xml:space="preserve">
-    <value>dar opinion</value>
+    <value>dar opinión</value>
   </data>
   <data name="RatingNo" xml:space="preserve">
     <value>no gracias</value>
